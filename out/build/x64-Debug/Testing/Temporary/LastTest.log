@@ -1,0 +1,20 @@
+Start testing: Jul 08 10:45 India Standard Time
+----------------------------------------------------------
+1/1 Testing: test_add01
+1/1 Test: test_add01
+Command: "C:/Users/Administrator/Desktop/Testproj_01/out/build/x64-Debug/test_add01.exe"
+Directory: C:/Users/Administrator/Desktop/Testproj_01/out/build/x64-Debug
+"test_add01" start time: Jul 08 10:45 India Standard Time
+Output:
+----------------------------------------------------------
+Running test add01...
+Testing finshed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_add01" end time: Jul 08 10:45 India Standard Time
+"test_add01" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 08 10:45 India Standard Time
